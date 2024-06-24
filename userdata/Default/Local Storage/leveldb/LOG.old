@@ -1,0 +1,4 @@
+2024/06/25-01:00:41.442 3c03 Reusing MANIFEST /Users/dbgw_ebeez/GolandProjects/dic_crawler/userdata/Default/Local Storage/leveldb/MANIFEST-000001
+2024/06/25-01:00:41.448 3c03 Recovering log #4
+2024/06/25-01:00:41.448 3c03 (ignoring error) /Users/dbgw_ebeez/GolandProjects/dic_crawler/userdata/Default/Local Storage/leveldb/000004.log: dropping 18333 bytes; Corruption: checksum mismatch
+2024/06/25-01:00:41.448 3c03 Reusing old log /Users/dbgw_ebeez/GolandProjects/dic_crawler/userdata/Default/Local Storage/leveldb/000004.log 

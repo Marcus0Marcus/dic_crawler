@@ -1,0 +1,7 @@
+Log file created at: 2024/06/25 00:04:27
+Running on machine: DBGM-EBEEZdeMacBook-Pro
+Binary: Built with gc go1.19.2 for darwin/amd64
+Previous log: <none>
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0625 00:04:27.524927   47355 logwrapper.go:38] [traceid: 0781afc8ebb12898]invalid context
+E0625 00:04:27.526209   47355 logwrapper.go:38] [traceid: 0781afc8ebb12898]invalid context

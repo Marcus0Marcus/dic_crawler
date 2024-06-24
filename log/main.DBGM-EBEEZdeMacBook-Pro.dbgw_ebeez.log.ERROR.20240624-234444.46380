@@ -1,0 +1,16 @@
+Log file created at: 2024/06/24 23:44:44
+Running on machine: DBGM-EBEEZdeMacBook-Pro
+Binary: Built with gc go1.19.2 for darwin/amd64
+Previous log: <none>
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0624 23:44:44.659027   46380 logwrapper.go:38] [traceid: 468367b3d81ce865]This is an error message.
+F0624 23:44:44.659224   46380 logwrapper.go:44] [traceid: 468367b3d81ce865]This is a fatal message.
+
+goroutine 1 [running]:
+github.com/golang/glog.Fatal(...)
+	/Users/dbgw_ebeez/go/pkg/mod/github.com/golang/glog@v1.2.1/glog.go:664
+dic_crawler/common/logwrapper.Fatal({0x111d368?, 0xc0001242a0?}, {0xc000157f58?, 0x1?, 0x10d9300?})
+	/Users/dbgw_ebeez/GolandProjects/dic_crawler/common/logwrapper/logwrapper.go:44 +0x15e
+main.main()
+	/Users/dbgw_ebeez/GolandProjects/dic_crawler/main.go:28 +0x205
+
